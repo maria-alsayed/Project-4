@@ -3,13 +3,13 @@
 Human Resources Data Analytics and Model
 
 
-##Overview
+## Overview
 
 The main goal of this project is to create data visualizations and data model using machine learning that will help predict an issue.
 
 In recent years, job-switching and voluntary resignations have become more common. Employee retention can help companies/organizations save a tremendous amount of time and money. Nonetheless, more and more employees are deciding to leave their current employer, but why? To help provide employers some insight, for this project, we decided to analyze publicly available human resource data to create a data model that will predict attrition based on data/features available. Additionally, we also want to create attractive visualizations that will enable leaders within an organization gain a deeper understanding of the data.
 
-##Built With
+## Built With
 
 In looking for publicly available HR data, we were able to locate a simulated employee dataset in Kaggle.com. This dataset is in CSV format. The specific dataset contains 2,952 records. Data includes the following information:
 1.	Employee ID 
@@ -41,16 +41,16 @@ In looking for publicly available HR data, we were able to locate a simulated em
 
 Dataset can be found here: https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset
 
-##Data Cleanup
+## Data Cleanup
 
 To begin exploring the dataset we created a Jupyter Notebook where we loaded and queried the CSV file. Using Pandas, we cleaned up the data by looking for duplicates, dropped columns that were not needed (e.g. Email), converted dates to usable formats, and converted date of birth to age. This initial data cleanup, allowed us to prepare our dataset for the data model and data visualizations.
 
-##Data Visualizations
+## Data Visualizations
 
 To help visualize our data and tell our data’s story more effectively and visually appealing to leaders of an organization, we used Tableau. [Insert what visualizations were created]
 
 
-##Data Model
+## Data Model
 
 
 Data Source: https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset
