@@ -53,10 +53,4 @@ To help visualize our data and tell our data’s story more effectively and visu
 ##Data Model
 
 
-
-
-
-![image](https://github.com/maria-alsayed/Project-4/assets/128986904/57a53b47-61a3-4b9f-81c0-4f8cd475fcb3)
-
-
 Data Source: https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset
