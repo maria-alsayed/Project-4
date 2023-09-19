@@ -1,7 +1,7 @@
 # Project-4
 
 Human Resources Data Analytics and Model
-
+<img width="1266" alt="Screenshot 2023-09-18 at 11 31 43 PM" src="https://github.com/maria-alsayed/Project-4/assets/130250635/dd9a9b16-ed2a-4d38-9ce0-dde2afc5d9be">
 
 ## Overview
 
