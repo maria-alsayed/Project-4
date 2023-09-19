@@ -49,6 +49,17 @@ To begin exploring the dataset we created a Jupyter Notebook where we loaded and
 
 To help visualize our data and tell our data’s story more effectively and visually appealing to leaders of an organization, we used Tableau. [Insert what visualizations were created]
 
+Age, Gender and Termination Type Analysis to compare attrition rate of both gender in each decade. 
+![Alt text](./Viz 2 Images/Age and Termination Type.png)
+Attrition ratio between men and women varies drastically from employees in their 30's and + 
+
+A dashboard that includes an analysis of department with the highest turnover; as well as evaluate the percentage of attrition that is negatively impacting the company. 
+![Alt text](./Viz 2 Images/Dashboard.png)
+
+Attrition is much higher in production roles.  
+
+The loss of talent is too high therefore mitigating employee attrition, especially high performer’s which accounted for 23%, will be a major win for the company. 
+
 
 ## Data Model
 
