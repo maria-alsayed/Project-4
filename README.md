@@ -99,7 +99,7 @@ Confusion Matrix:
 
 ## Data Visualizations
 
-To help visualize our data and tell our data’s story more effectively and visually appealing to leaders of an organization, we used Tableau. [Insert what visualizations were created]
+To help visualize our data and tell our data’s story more effectively and visually appealing to leaders of an organization, we used Tableau. 
 
 Age, Gender and Termination Type Analysis to compare attrition rate of both gender in each decade. 
 ![Alt text](./Viz 2 Images/Age and Termination Type.png)
@@ -112,8 +112,6 @@ Attrition is much higher in production roles.
 
 The loss of talent is too high therefore mitigating employee attrition, especially high performer’s which accounted for 23%, will be a major win for the company. 
 
-
-## Data Model
 
 
 Data Source: https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset
